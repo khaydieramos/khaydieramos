@@ -81,6 +81,6 @@ I also mentor through the Young Women's Christian Association, supporting digita
 
 ## Connect
 
-- **LinkedIn:** www.linkedin.com/in/khaydie-ramos-s-171929413
+- **LinkedIn:** www.linkedin.com/in/khaydie-ramos-171929413
 - **Portfolio:** https://khaydieramos.lovable.app/
 - **Email:** kjr6@fordham.edu
