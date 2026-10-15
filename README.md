@@ -1,86 +1,144 @@
-# Hi, I'm Khaydie Ramos
+<div align="center">
 
-### Computer Science Student at Fordham University
-**Software Development | Financial Technology | Data Analytics | Machine Learning**
+# Hi there, I'm Khaydie Ramos! 👋
 
-I'm a Computer Science undergraduate at Fordham University with an interest in building practical, data-driven applications. I enjoy combining software engineering, databases, and analytical techniques to develop solutions that make complex information easier to understand and use.
+### 💻 Computer Science Student @ Fordham University
+### 🚀 Software Development | Fintech | Machine Learning
 
-I'm particularly interested in financial technology, intelligent applications, and the intersection of computing and quantitative analysis.
+*Building practical, data-driven applications that solve real-world problems.*
 
-## About Me
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjr6@fordham.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-khaydieramos-181717?style=for-the-badge&logo=github)](https://github.com/khaydieramos)
 
-- Studying Computer Science at Fordham University, expected May 2028.
-- Pursuing a 3-2 engineering pathway, with plans to study Financial Engineering at Columbia University, subject to admission.
-- Building projects involving financial analytics, machine learning, and relational databases.
-- Experienced in academic tutoring and technology-focused community mentorship.
+</div>
 
-## Technical Skills
+---
 
-| Category | Technologies |
-|---|---|
-| Programming | Python, Java, C, C++, JavaScript, HTML, Swift |
-| Data Science & ML | pandas, scikit-learn, Matplotlib, feature engineering, classification |
-| Databases | SQL, PostgreSQL, relational database design |
-| Frameworks & Visualization | Streamlit, Plotly, OpenAI API integration |
-| Development Tools | Git, GitHub, Linux, VS Code |
-| CS Fundamentals | Data Structures, Algorithms, Multithreading |
+## 👩🏾‍💻 About Me
 
-## Featured Projects
+I'm a Computer Science undergraduate at **Fordham University**, passionate about software engineering, financial technology, and machine learning.
 
-### FinSight — AI-Powered Financial Analytics Platform
+I enjoy developing applications that combine programming, databases, and data analytics to create meaningful solutions.
 
-**Python · PostgreSQL · Streamlit · Plotly · pandas · OpenAI API**
+- 🎓 Pursuing a B.S. in Computer Science, expected May 2028
+- 💡 Interested in software engineering, fintech, and intelligent applications
+- 📊 Currently developing **FinSight**, a financial analytics platform
+- 🧠 Exploring machine learning, algorithms, and database systems
+- 🤝 Academic tutor and technology-focused community mentor
+- 🌱 Always learning and improving my technical skills
 
-A financial analytics application designed to help users explore transaction data and better understand their financial activity.
+---
 
-- Built interactive visualizations for income, expenses, cash flow, and spending patterns.
-- Integrated PostgreSQL for transaction storage and SQL-based reporting.
-- Implemented CSV import/export and an AI-powered financial assistant.
+## 🛠️ Technical Skills
 
-**Repository:** [Add FinSight repository link]
+### 💻 Programming Languages
 
-### Predicting Adult Income Using Census Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,swift&theme=dark" alt="Programming languages"/>
+</p>
 
-**Python · pandas · scikit-learn · Matplotlib**
+### 🗄️ Databases & Data Science
 
-A machine learning classification project using the UCI Adult Census dataset to predict whether an individual's annual income exceeds $50,000.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,sklearn&theme=dark" alt="PostgreSQL and scikit-learn"/>
+</p>
 
-- Analyzed more than 48,000 census records.
-- Applied data cleaning, feature engineering, and model evaluation.
-- Achieved 83.4% accuracy using a tuned Decision Tree classifier.
+**Additional tools:** SQL, pandas, Matplotlib, Plotly, Streamlit
 
-**Repository:** [Add machine learning repository link]
+### ⚙️ Development Tools
 
-### Student Database Management System
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Development tools"/>
+</p>
 
-**SQL · Relational Database Design**
+**Additional experience:** OpenAI API Integration, POSIX Threads, Multithreading
 
-A relational database project focused on organizing student, course, and enrollment records.
+---
 
-- Designed tables with primary and foreign key constraints.
-- Modeled student-course relationships through an enrollment table.
-- Used SQL to organize and retrieve academic records.
+## 🚀 Featured Projects
 
-**Repository:** [Add database repository link]
+### 💰 FinSight — AI-Powered Financial Analytics
 
-## Education
+**Python | PostgreSQL | Streamlit | Plotly | pandas | OpenAI API**
 
-**Fordham University — Fordham College at Rose Hill**
+An interactive financial analytics application designed to help users explore their transaction data and understand spending patterns.
 
-B.S. in Computer Science | Expected May 2028
+- 📊 Visualizes income, expenses, cash flow, and spending trends
+- 🗄️ Uses PostgreSQL for transaction storage and SQL reporting
+- 🤖 Integrates an AI-powered financial assistant
+- 📁 Supports CSV import and export
 
-GPA: 3.53/4.00 | Dean's List
+**🔗 Repository:** [FinSight](https://github.com/khaydieramos/finsight)
 
-3-2 Cooperative Program in Engineering
+---
 
-## Beyond Coding
+### 🧠 Predicting Adult Income Using Census Data
 
-I work as a Knack Tutor at Fordham University, helping students develop problem-solving skills and understand complex academic concepts.
+**Python | pandas | scikit-learn | Matplotlib**
 
-I also mentor through the Young Women's Christian Association, supporting digital literacy and technology education.
+A machine learning project that predicts whether an individual's annual income exceeds $50,000 using the UCI Adult Census dataset.
 
-## Connect
+- 📈 Analyzed more than 48,000 census records
+- 🧹 Performed data cleaning and feature engineering
+- 🔍 Trained and evaluated classification models
+- 🎯 Achieved **83.4% accuracy** with a tuned Decision Tree
 
-- **LinkedIn:** www.linkedin.com/in/khaydie-ramos-171929413
-- **Portfolio:** https://khaydieramos.lovable.app/
-- **Email:** kjr6@fordham.edu
+**🔗 Repository:** [Adult Income Prediction](https://github.com/khaydieramos/adult-income-prediction)
+
+---
+
+### 🗃️ Student Database Management System
+
+**SQL | Relational Database Design**
+
+A relational database project for organizing student information, courses, and enrollment records.
+
+- 🏗️ Designed relational tables with primary and foreign keys
+- 🔗 Modeled student-course enrollment relationships
+- 🔎 Developed SQL queries for retrieving and analyzing data
+- 🛡️ Applied relational constraints to maintain data integrity
+
+**🔗 Repository:** [Student Database Management](https://github.com/khaydieramos/student-database-management)
+
+---
+
+## 🎓 Education
+
+**Fordham University — Rose Hill Campus**
+
+Bachelor of Science in Computer Science | Expected May 2028
+
+- GPA: 3.53/4.00
+- Dean's List
+- 3-2 Cooperative Program in Engineering
+
+---
+
+## 🌍 Beyond Coding
+
+- 📚 **Knack Tutor @ Fordham University:** Supporting students through individualized academic tutoring.
+- 🤝 **YWCA Mentor:** Promoting digital literacy and technology education.
+- 👩‍💻 **Girls Who Code:** Member
+- 💻 **Computer Science Society:** Member
+
+---
+
+## 📫 Let's Connect!
+
+I'm interested in opportunities to learn, collaborate, and apply my skills to meaningful software projects.
+
+📧 **Email:** kjr6@fordham.edu
+
+💻 **GitHub:** [github.com/khaydieramos](https://github.com/khaydieramos)
+
+🌐 **Portfolio:** [khaydieramos.lovable.app](https://khaydieramos.lovable.app/)
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+*Always learning. Always building.*
+
+</div>
