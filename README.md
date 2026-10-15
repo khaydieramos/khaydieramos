@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Khaydie Ramos! 👋
+# Hi there, I'm Khaydie Ramos! 👋🏽
 
 ### 💻 Computer Science Student @ Fordham University
 ### 🚀 Software Development | Fintech | Machine Learning
